@@ -2,7 +2,7 @@
 
 The Readit is a website for Book's and ebooks selling platform. User can order the books or User can pay the fee and download Pdf file. 
 
-The User can download free sample of book for free it contains only 10 page of Book.
+The User can download free sample of bookpdf for free it contains only 10 page of Book.
 
 ---
 
