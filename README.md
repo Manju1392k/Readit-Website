@@ -6,7 +6,7 @@ The User can download free sample of bookpdf for free it contains only 10 page o
 
 ---
 
-# 👁️‍🗨️ Preview of Readit Websit
+# 👁️‍🗨️ Preview of Readit Website
 
 https://user-images.githubusercontent.com/66934377/161069542-f86af435-c1e3-4446-a6f6-e0376d707a2e.mp4
 
