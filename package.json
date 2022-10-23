@@ -57,6 +57,7 @@
     "micromatch": "^4.0.5",
     "minimist": "^1.2.6",
     "nanoid": "^3.3.2",
+    "node": "^19.0.0",
     "node-releases": "^2.0.2",
     "normalize-path": "^3.0.0",
     "normalize-range": "^0.1.2",
@@ -84,7 +85,7 @@
     "supports-preserve-symlinks-flag": "^1.0.0",
     "to-regex-range": "^5.0.1",
     "util-deprecate": "^1.0.2",
-    "vite": "^2.9.1",
+    "vite": "^2.9.15",
     "xtend": "^4.0.2",
     "yaml": "^1.10.2"
   },
